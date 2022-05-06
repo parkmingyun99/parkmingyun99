@@ -1,7 +1,9 @@
-
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=Junior%20Back-end%20Developer&fontAlignY=45&fontSize=40&height=150&desc=park min gyun&descAlignY=70">
+</div>
 
-
+instagram
+@nnin9yun
 <!--
 **parkmingyun99/parkmingyun99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
