@@ -1,6 +1,5 @@
-### Hi there 👋
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=Junior%20Back-end%20Developer&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=park min gyun&descAlignY=70">
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=Junior%20Back-end%20Developer&fontAlignY=45&fontSize=40&height=150&desc=park min gyun&descAlignY=70">
 
 
 <!--
