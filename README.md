@@ -2,12 +2,6 @@ Hello, Im Junior Developer.
 
 Im Studying 
 
-<div align=center><h1>CONTACT ME</h1></div>
-<div align=center>
-E-mail : griffinland9@naver.com
-<br>
-Instagram : @nnin9yun
-</div>
 
 <div align=center><h1>📚 MAIN STACKS</h1></div>
 <div align=center>
@@ -33,4 +27,15 @@ Instagram : @nnin9yun
 <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
   
   
+</div>
+
+
+
+
+
+<div align=center><h1>CONTACT ME</h1></div>
+<div align=center>
++ E-mail : griffinland9@naver.com
+<br>
++ Instagram : @nnin9yun
 </div>
