@@ -1,6 +1,6 @@
-Hello, Im Junior Developer. 
+<h1>Hello, Im Junior Developer.<h1> 
 
-Im Studying 
+
 
 
 <div align=center><h1>📚 MAIN STACKS</h1></div>
