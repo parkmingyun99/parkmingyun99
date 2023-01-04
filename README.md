@@ -1,10 +1,11 @@
+Hello, Im Junior Developer. 
 
-instagram
-@nnin9yun
+Im Studying 
 
 <div align=center><h1>CONTACT ME</h1></div>
 <div align=center>
 E-mail : griffinland9@naver.com
+<br>
 Instagram : @nnin9yun
 </div>
 
@@ -19,6 +20,7 @@ Instagram : @nnin9yun
   <img src="https://img.shields.io/badge/androidStudio-3DDC84?style=for-the-badge&logo=androidStudio&logoColor=white">
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 </div>
 
 <div align=center><h1>📚 SUB STACKS</h1></div>
@@ -27,4 +29,8 @@ Instagram : @nnin9yun
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c++&logoColor=white">
+ <br>
+<img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+  
+  
 </div>
