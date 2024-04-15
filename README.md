@@ -2,7 +2,7 @@
 
 <div align=center><h2>📚 Intermediate level </h2></div>
 <div align=center>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-1BA0D7?style=for-the-badge&logo=Docker&logoColor=white">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
 </div>
