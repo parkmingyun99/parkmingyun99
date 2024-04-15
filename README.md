@@ -27,8 +27,8 @@
 
 <div align=center><h2>📚 간단한 사용 경험, 학습중 </h2></div>
 <div align=center>
- <img src="https://img.shields.io/badge/Kubenetes-1BA0D7?style=for-the-badge&logo=Kubenetes&logoColor=white">
- <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=AWS SAA&logoColor=white">
+ <img src="https://img.shields.io/badge/Kubernetes-1BA0D7?style=for-the-badge&logo=Kubernetes&logoColor=white">
+ <img src="https://img.shields.io/badge/AWS SAA-232F3E?style=for-the-badge&logo=AWS SAA&logoColor=white">
   <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=Argos&logoColor=white">
  <br>
 
