@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/GNS3-000000?style=for-the-badge&logo=GNS3&logoColor=white">
   <img src="https://img.shields.io/badge/CCNP R&S-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white">
-  
   <br>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
@@ -23,8 +22,8 @@
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=JAVA&logoColor=white">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
 </div>
-
 <div align=center><h2>📚 간단한 사용 경험, 학습중 </h2></div>
 <div align=center>
  <img src="https://img.shields.io/badge/Kubernetes-1BA0D7?style=for-the-badge&logo=Kubernetes&logoColor=white">
