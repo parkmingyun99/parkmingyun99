@@ -29,7 +29,7 @@
 <div align=center>
  <img src="https://img.shields.io/badge/Kubenetes-1BA0D7?style=for-the-badge&logo=Kubenetes&logoColor=white">
  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=AWS SAA&logoColor=white">
-  <img src="https://img.shields.io/badge/Argos-EF7B4D?style=for-the-badge&logo=ArgoCD&logoColor=white">
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=Argos&logoColor=white">
  <br>
 
   
