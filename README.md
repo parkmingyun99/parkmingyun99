@@ -1,6 +1,6 @@
-<h1>안녕하세요. 주니어 엔지니어 입니다.</h1> 
+<h1>Hello, I'm Junior Developer</h1> 
 
-<div align=center><h2>📚 중급 수준의 사용 경험 </h2></div>
+<div align=center><h2>📚 Intermediate level </h2></div>
 <div align=center>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-1BA0D7?style=for-the-badge&logo=Docker&logoColor=white">
@@ -9,7 +9,7 @@
 
 
 
-<div align=center><h2>📚 초급 수준의 사용 경험, 적은 프로젝트 수행 경험 </h2></div>
+<div align=center><h2>📚 Intermediate low level </h2></div>
 <div align=center>
   <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/GNS3-000000?style=for-the-badge&logo=GNS3&logoColor=white">
@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
 </div>
-<div align=center><h2>📚 간단한 사용 경험, 학습중 </h2></div>
+<div align=center><h2>📚 Begginer level, Studying now </h2></div>
 <div align=center>
  <img src="https://img.shields.io/badge/Kubernetes-1BA0D7?style=for-the-badge&logo=Kubernetes&logoColor=white">
  <img src="https://img.shields.io/badge/AWS SAA-232F3E?style=for-the-badge&logo=AWS SAA&logoColor=white">
