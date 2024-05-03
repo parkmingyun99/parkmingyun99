@@ -43,3 +43,8 @@
 <div align=center>
 + E-mail : griffinland9@naver.com
 </div>
+
+
+<div align=center><h1>More Details</h1></div>
+<div align=center>
+https://alpine-talos-fa2.notion.site/c78764b0b461498b8576db0eef5b442f?pvs=4</div>
