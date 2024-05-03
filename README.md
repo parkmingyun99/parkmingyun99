@@ -41,7 +41,7 @@
 
 
 
-<div align=center><h1>CONTACT ME</h1></div>
+<div align=center><h1>📚 CONTACT ME</h1></div>
 <div align=center>
 + E-mail : griffinland9@naver.com
 </div>
@@ -49,13 +49,13 @@
 
 
 
-<div align=center><h1>More Details</h1></div>
+<div align=center><h1>📚 More Details</h1></div>
 <div align=center>+ https://alpine-talos-fa2.notion.site/c78764b0b461498b8576db0eef5b442f?pvs=4</div>
 
 
 
 
-<div align=center><h1>Awards</h1></div>
+<div align=center><h1>📚 Awards</h1></div>
 <div align=center>+ ICT기업 및 언론사 대표이사상 수상 </div>
 <div align=center>+ CEIC 2023 (대한전자공학회, 한국통신학회, IEEE Daejeon Section 주관 학술대회) 논문우수상 수상</div>
 <div align=center>+ 동국대학교 ICIP&캡스톤디자인 결과 발표회 SW교육원장상 수상 </div>
@@ -63,7 +63,7 @@
 
 
   
-<div align=center><h1>Certification</h1></div>
+<div align=center><h1>📚 Certification</h1></div>
 <div align=center>
 
 | 자격증                   | 취득일                              | 자격번호        | 발급기관              |
