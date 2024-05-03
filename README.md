@@ -39,14 +39,20 @@
 
 
 
+
+
 <div align=center><h1>CONTACT ME</h1></div>
 <div align=center>
 + E-mail : griffinland9@naver.com
 </div>
 
 
+
+
 <div align=center><h1>More Details</h1></div>
 <div align=center>+ https://alpine-talos-fa2.notion.site/c78764b0b461498b8576db0eef5b442f?pvs=4</div>
+
+
 
 
 <div align=center><h1>Awards</h1></div>
@@ -56,6 +62,8 @@
 
 
 
+  
+<div align=center><h1>Certification</h1></div>
 <div align=center>
 
 | 자격증                   | 취득일                              | 자격번호        | 발급기관              |
