@@ -1,11 +1,16 @@
 <h1>Hello, I'm Junior Engineer</h1> 
 
+
+
+
 <div align=center><h2>📚 Intermediate level </h2></div>
 <div align=center>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-1BA0D7?style=for-the-badge&logo=Docker&logoColor=white">
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
 </div>
+
+
 
 
 
@@ -24,6 +29,11 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
 </div>
+
+
+
+
+
 <div align=center><h2>📚 Begginer level, Studying now </h2></div>
 <div align=center>
  <img src="https://img.shields.io/badge/Kubernetes-1BA0D7?style=for-the-badge&logo=Kubernetes&logoColor=white">
@@ -41,7 +51,7 @@
 
 
 
-<div align=center><h1>📚 CONTACT ME</h1></div>
+<div align=center><h2>📚 CONTACT ME</h2></div>
 <div align=center>
 + E-mail : griffinland9@naver.com
 </div>
@@ -49,21 +59,21 @@
 
 
 
-<div align=center><h1>📚 More Details</h1></div>
+<div align=center><h2>📚 More Details</h2></div>
 <div align=center>+ https://alpine-talos-fa2.notion.site/c78764b0b461498b8576db0eef5b442f?pvs=4</div>
 
 
 
 
-<div align=center><h1>📚 Awards</h1></div>
-<div align=center>+ ICT기업 및 언론사 대표이사상 수상 </div>
+<div align=center><h2>📚 Awards</h2></div>
+<div align=center>+ 한이음 ICT기업 및 언론사 대표이사상 수상 </div>
 <div align=center>+ CEIC 2023 (대한전자공학회, 한국통신학회, IEEE Daejeon Section 주관 학술대회) 논문우수상 수상</div>
 <div align=center>+ 동국대학교 ICIP&캡스톤디자인 결과 발표회 SW교육원장상 수상 </div>
 
 
 
   
-<div align=center><h1>📚 Certification</h1></div>
+<div align=center><h2>📚 Certification</h2></div>
 <div align=center>
 
 | 자격증                   | 취득일                              | 자격번호        | 발급기관              |
