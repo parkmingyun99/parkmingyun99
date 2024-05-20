@@ -51,7 +51,7 @@
 
 
 
-<div align=center><h2>📚 CONTACT ME</h2></div>
+<div align=center><h2>📚 Contact me </h2></div>
 <div align=center>
 + E-mail : griffinland9@naver.com
 </div>
