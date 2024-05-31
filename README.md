@@ -65,10 +65,11 @@
 
 
 
+
 <div align=center><h2>📚 Awards</h2></div>
-<div align=center>+ 한이음 ICT기업 및 언론사 대표이사상 수상 </div>
-<div align=center>+ CEIC 2023 (대한전자공학회, 한국통신학회, IEEE Daejeon Section 주관 학술대회) 논문우수상 수상</div>
-<div align=center>+ 동국대학교 ICIP&캡스톤디자인 결과 발표회 SW교육원장상 수상 </div>
+<div align=center>+ Received the Han Eum ICT Company and Media CEO Award</div>
+<div align=center>+ Received the Excellent Paper Award at CEIC 2023 (a conference hosted by the Electronics Engineers Society of Korea, Korea Communications Society, and IEEE Daejeon Section)</div>
+<div align=center>+ Received the SW Education Director Award at the Dongguk University ICIP & Capstone Design Results Presentation</div>
 
 
 
