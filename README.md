@@ -59,10 +59,6 @@
 
 
 
-<div align=center><h2>📚 More Details</h2></div>
-<div align=center>+ https://alpine-talos-fa2.notion.site/c78764b0b461498b8576db0eef5b442f?pvs=4</div>
-
-
 
 
 
