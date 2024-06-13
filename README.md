@@ -63,24 +63,15 @@
 
 
 <div align=center><h2>📚 Awards</h2></div>
-<div align=center>+ Received the Han Eum ICT Company and Media CEO Award</div>
-<div align=center>+ Received the Excellent Paper Award at CEIC 2023 (a conference hosted by the Electronics Engineers Society of Korea, Korea Communications Society, and IEEE Daejeon Section)</div>
-<div align=center>+ Received the SW Education Director Award at the Dongguk University ICIP & Capstone Design Results Presentation</div>
+<div align=center>2023	SW Education Director Award, Dongguk University, Korea</div>
+<div align=center>2023	Company and Media CEO Award, Hanium ICT, Korea</div>
+<div align=center>2023	Paper Excellence Award for CEIC 2023, Korean Institute of Electronics and Information Engineers, Korea</div>
 
 
 
   
 <div align=center><h2>📚 Certification</h2></div>
 <div align=center>
-
-| 자격증                   | 취득일                              | 자격번호        | 발급기관              |
-|------------------------|------------------------------------|---------------|---------------------|
-| CCNP Routing&Switching | 2018. 02. 01 ~ 2021. 08. 01 (만료) | CSCO13220211  | Cisco               |
-| 워드프로세서              | 2017. 07. 14                        | 17-I9-015832  | 대한상공회의소          |
-| 정보기기운용기능사         | 2017. 07. 05                        | 17843510114V  | 한국기술자격검정원       |
-| 네트워크관리사 2급         | 2017. 05. 09                        | NT2037376     | 한국정보통신진흥협회     |
-| 정보처리기능사           | 2017. 03. 29                        | 17845530152Z  | 한국기술자격검정원       |
-| 리눅스마스터 2급          | 2015. 08. 07                        | LMS-1503-000949 | 한국정보통신진흥협회     |
-| 인터넷정보관리사 2급      | 2015. 06. 04                        | IIS-1502-000037 | 한국정보통신진흥협회     |
-
+CCNP Routing & Switching 2018-2021 Cisco
+CCNA Routing & Switching 2017-2021 Cisco
 </div>
