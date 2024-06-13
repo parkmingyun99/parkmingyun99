@@ -73,5 +73,6 @@
 <div align=center><h2>📚 Certification</h2></div>
 <div align=center>
 CCNP Routing & Switching 2018-2021 Cisco
+    <br>
 CCNA Routing & Switching 2017-2021 Cisco
 </div>
